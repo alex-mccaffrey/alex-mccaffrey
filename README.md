@@ -21,8 +21,6 @@ A few links:
 [<a href="mailto: alex.mccaffrey07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>]() <a href="mailto: alex.mccaffrey07@gmail.com">
 
-## Explore My Work
-[<a href="https://github.com/amccaff20"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>]() <a href="https://github.com/amccaff20">
   
 ## What I Know
 ### Languages and Such
