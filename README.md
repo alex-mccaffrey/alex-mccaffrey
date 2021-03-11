@@ -49,5 +49,5 @@ A few links:
 
 ### Random Facts
 - 🔭 I’m currently working on competeing my Full Stack Software Engineering Program
-- 🌱 I’m currently learning how to build a full stap application
+- 🌱 I’m currently learning how to build a full stack application
 - ⚡ Fun fact: In my past life I trained Search and Rescue K9's....specifically Avalanche Rescue Dogs
