@@ -16,9 +16,9 @@ A few links:
 
 ### Find me on
 [<a href="https://www.linkedin.com/in/alex-mccaffrey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]() <a href="https://www.linkedin.com/in/alex-mccaffrey/">
-[<a href="https://twitter.com/alex_mccaff"><img alt="Twitter" src="https://img.shields.io/badge/<@alex_mccaff>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+[<a href="https://twitter.com/alex_mccaff"><img alt="Twitter" src="https://img.shields.io/badge/@alex_mccaff%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>]() <a href="https://twitter.com/alex_mccaff">
-[<a href="mailto: alex.mccaffrey07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+[<a href="mailto: alex.mccaffrey07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>]() <a href="mailto: alex.mccaffrey07@gmail.com">
 
 ###
