@@ -9,9 +9,6 @@ I am a full stack web developer. Currently, I am finishing the Thinkful Software
 
 A few links:
 - 🚀 [My Portfolio](https://alexmccaffrey.dev/)
-- 📜 [Find me On LinkedIn](https://www.linkedin.com/in/alex-mccaffrey/)
-- 🐦 [Check Out My Twitter](https://twitter.com/alex_mccaff)
-- 📪 [Email Me](mailto:alex.mccaffrey07@gmail.com)
 - 🌈 [My Resume](https://drive.google.com/file/d/1bWUQpKgFwHL4x7YcircJ0hAX5abwB__c/view?usp=sharing)
 
 ## Find me on
