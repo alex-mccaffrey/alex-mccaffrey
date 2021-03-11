@@ -8,11 +8,11 @@ I am a full stack web developer. Currently, I am finishing the Thinkful Software
 
 
 A few links:
-- 🚀 [Website](https://alexmccaffrey.dev/)
-- 📜 [LinkedIn](https://www.linkedin.com/in/alex-mccaffrey/)
-- 🐦 [Twitter](https://twitter.com/alex_mccaff)
-- 📪 [Email](mailto:alex.mccaffrey07@gmail.com)
-- 🌈 [Resume](https://drive.google.com/file/d/1bWUQpKgFwHL4x7YcircJ0hAX5abwB__c/view?usp=sharing)
+- 🚀 [My Portfolio](https://alexmccaffrey.dev/)
+- 📜 [Find me On LinkedIn](https://www.linkedin.com/in/alex-mccaffrey/)
+- 🐦 [Check Out My Twitter](https://twitter.com/alex_mccaff)
+- 📪 [Email Me](mailto:alex.mccaffrey07@gmail.com)
+- 🌈 [My Resume](https://drive.google.com/file/d/1bWUQpKgFwHL4x7YcircJ0hAX5abwB__c/view?usp=sharing)
 
 ## Find me on
 [<a href="https://www.linkedin.com/in/alex-mccaffrey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]() <a href="https://www.linkedin.com/in/alex-mccaffrey/">
