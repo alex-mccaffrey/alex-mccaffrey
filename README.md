@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ![Hello](image url goes here)
 
@@ -14,18 +14,18 @@ A few links:
 - 📪 [Email](mailto:alex.mccaffrey07@gmail.com)
 - 🌈 [Resume](https://drive.google.com/file/d/1bWUQpKgFwHL4x7YcircJ0hAX5abwB__c/view?usp=sharing)
 
-### Find me on
+## Find me on
 [<a href="https://www.linkedin.com/in/alex-mccaffrey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]() <a href="https://www.linkedin.com/in/alex-mccaffrey/">
 [<a href="https://twitter.com/alex_mccaff"><img alt="Twitter" src="https://img.shields.io/badge/@alex_mccaff%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>]() <a href="https://twitter.com/alex_mccaff">
 [<a href="mailto: alex.mccaffrey07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>]() <a href="mailto: alex.mccaffrey07@gmail.com">
 
-### Explore My Work
+## Explore My Work
 [<a href="https://github.com/amccaff20"><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>]() <a href="https://github.com/amccaff20">
   
-### What I Know
-## Languages and Such
+## What I Know
+### Languages and Such
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
@@ -36,7 +36,7 @@ A few links:
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
 
-##Frameworks
+### Frameworks
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> 
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> 
