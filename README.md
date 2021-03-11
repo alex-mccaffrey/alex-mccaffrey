@@ -14,6 +14,9 @@ A few links:
 - 📪 [Email](mailto:alex.mccaffrey07@gmail.com)
 - 🌈 [Resume](https://drive.google.com/file/d/1bWUQpKgFwHL4x7YcircJ0hAX5abwB__c/view?usp=sharing)
 
+[<a href="https://www.linkedin.com/in/alex-mccaffrey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]() <a href="https://www.linkedin.com/in/alex-mccaffrey/">[<a href="https://twitter.com/alex_mccaff"><img alt="Twitter" src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>]() <a href="https://twitter.com/alex_mccaff">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
