@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I'm Alex
+### Hi, I'm Alex
 
-I am a full stack web developer. Currently, I am finishing the Thinkful Software Engineering Program!
+I am a Senior Support Engineer and Web Developer.
 
 
 A few links:
