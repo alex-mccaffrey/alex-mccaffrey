@@ -48,6 +48,6 @@ A few links:
 
 
 ### Random Facts
-- 🔭 I’m currently working on competeing my Full Stack Software Engineering Program
-- 🌱 I’m currently learning how to build a full stack application
+- 🔭 I have completed a Full Stack Software Engineering Program through Thinkful
+- 🌱 I have built a couple of full stack applications and am learning Swift
 - ⚡ Fun fact: In my past life I trained Search and Rescue K9's....specifically Avalanche Rescue Dogs
