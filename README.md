@@ -8,7 +8,7 @@ I am a Senior Support Engineer and Web Developer.
 
 A few links:
 - 📸 [My Portfolio](https://alexmccaffrey.dev/)
-- 💾 [My Resume](https://drive.google.com/file/d/1L4j9lvzIZVlz6xJqB7FFzde3rAb6z62-/view?usp=sharing)
+- 💾 [My Resume](https://drive.google.com/file/d/106FDSiFY4pu7eY_yM55szVA4x89KFK5N/view?usp=sharing)
 
 ## Find me on
 [<a href="https://www.linkedin.com/in/alex-mccaffrey/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>]() <a href="https://www.linkedin.com/in/alex-mccaffrey/">
